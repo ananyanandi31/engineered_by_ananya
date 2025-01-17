@@ -1,18 +1,24 @@
 ---
-title: Chapter 1 - Introduction to Version Control
+title: About Me
 layout: custom
-parent: Topic 1 - Git
+parent: docs
 has_children: false
 has_toc: false
 nav_order: 1
 ---
 
-# Chapter 1 - Introduction to Version Control
-## What is version control?
-Version control is **a system that records changes to a file or set of files over time** so that you can recall specific versions later. It's a critical tool in modern software development, allowing developers to work collaboratively, track every modification, and revert to previous states if necessary.
+# About Me
 
-> **Example Scenario**
->
+_Story: Explore my evolution from a software engineer to product manager._
+
+I began my career as a Software Engineer with a foundation in Computer Science Engineering and have since transitioned to Product Management to drive the development of impactful solutions at scale. My technical expertise enabled me to lead and architect key projects, including:
+- NFL Analytics Web App: Directed the end-to-end development of a machine learning-powered analytical tool for NFL coaches, improving foul-play detection accuracy by 94.3%.
+- AR Shopping Platform: Built a cloud-integrated data pipeline for an AR-based shopping app, leveraging Azure and Python to deliver seamless experiences.
+- Enterprise Delivery Optimization: Enhanced real-time delivery updates by 70% for an enterprise solutions company, streamlining operations for over 400 clients.
+With a robust background in software development and a strategic approach to product management, I bridge the gap between technical teams and business needs, delivering user-centric solutions with measurable outcomes.
+
+
+# Something
 > Armine and Tigran are part of a software development team tasked with creating a new mobile application. Armine is tasked with refining the user authentication system, while Tigran is implementing an innovative feature that allows users to share media within the app.
 >
 > **Without Version Control**: If Armine and Tigran are editing the same file, Tigran's latest upload could accidentally overwrite the changes Armine made, resulting in a loss of progress and potential conflicts in the code.
