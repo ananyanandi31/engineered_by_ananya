@@ -1,35 +1,48 @@
 ---
 title: Home
-layout: home
+layout: custom
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# All the best Ananya
+# DevSecOps Curriculum 💻
+>> Made by 2024 University of Washington Informatics Capstone Team Info Innovators
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+>> Sponsored by Boeing
 
-More specifically, the created site:
+Welcome to our open-source DevSecOps curriculum!
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+This comprehensive resource is designed to equip new graduates, companies, professors, students, and self-learners with practical skills in DevSecOps, thereby bridging the knowledge gap in its principles and practices. Our curriculum prepares students for a smooth transition from academic learning to the professional environment by focusing on real-world applications.
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+## Why DevSecOps and CI/CD in Academia? 🎓
+The tech world is rapidly evolving, and with it, the requirements of the software industry are changing at an unprecedented pace. Traditional academic curricula often lag behind, particularly in areas like DevSecOps and CI/CD practices. This creates a significant skills gap for graduates entering the industry, who find themselves unprepared for the demands of modern software development and deployment. Key insights from our research highlight this disconnect:
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+- **Skills Gap**: As per the [Veracode Global Skills Survey](https://www.veracode.com/blog/security-news/veracode-survey-research-identifies-cybersecurity-skills-gap-causes-and-cures), about 70% of respondents stated that new graduates did not receive adequate training for their current positions. This gap is particularly evident in DevSecOps, where the integration of security in the development pipeline is crucial yet often overlooked in academic settings.
 
-To get started with creating a site, simply:
+- **Demand for Cloud Skills**: Institutions struggle to meet the burgeoning demand for cloud skills. Reports by 451 Research and Robert Half International show a significant portion of organizations and IT leaders citing a lack of skills in managing cloud deployments.
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+- **Security Risks**: The skills gap in DevSecOps and cloud technology can lead to severe security risks, with data breaches often resulting from misconfigured access controls. A staggering 80% of companies experienced a data breach between 2019 and 2020, primarily due to such issues.
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+- **Lack of Practical Exposure**: Students often graduate with coding skills but lack exposure to best practices and industry tools for deploying software in production, especially using cloud technologies. This lack of practical, hands-on experience creates a steep learning curve when entering the industry.
 
-----
+- **Cost and Accessibility of External Resources:** Many existing online courses on cloud technologies and DevSecOps are expensive, making it difficult for students to access quality education in these areas.
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+Our curriculum aims to fill this void by providing up-to-date, practical training in DevSecOps and CI/CD practices. By integrating our modules into existing courses, professors can enrich their curriculum, preparing students for the challenges of modern software development and making them valuable assets to the industry from day one.
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+To understand the skills gap that new graduates face, refer to our [User Research](./docs/other/research/user-research).
+
+## Benefits of Open-Source 🌍
+- **Continuous Evolution**: Keeping the curriculum up-to-date with the latest industry advancements.
+- **Accessibility**: Democratizing education in DevSecOps.
+- **Adaptability**: Customizable for different educational settings.
+- **Transparency and Trust**: Encouraging scrutiny and feedback for quality content.
+
+## Contributing to the Curriculum 🤝
+Contributions are welcome! Help us keep the curriculum relevant and effective by updating content, adding new exercises, or providing feedback.
+
+### Connect with the Creators 🔗
+- [Sirena Akopyan](https://www.linkedin.com/in/sirena-akopyan/)
+- [Bhavya Garlapati](https://www.linkedin.com/in/bhavya-garlapati-95ab46225/)
+- [Eric Kim](https://www.linkedin.com/in/taehyunnkim/)
+- [Mari Woodworth](https://www.linkedin.com/in/marikowoodworth/)
+- [Brandon Mendoza](https://www.linkedin.com/in/bwmendo/)
+
