@@ -1,7 +1,7 @@
 ---
-title: About Me
+title: Professional Background
 layout: custom
-parent: docs
+# parent: docs
 has_children: false
 has_toc: false
 nav_order: 1
