@@ -5,15 +5,13 @@ layout: custom
 
 ## Meet Me
 
-Story: Discover the person behind the impactful products
+**Discover the person behind the impactful products*
 
 <div>
-    <img src="engineered_by_ananya/assets/images/Cropped_Photo.jpg">
+    <img src="/engineered_by_ananya/assets/images/Cropped_Photo.jpg">
 </div>
 
-Welcome to our open-source DevSecOps curriculum!
-
-I am a passionate Product Manager with 2+ years of experience in building cutting-edge software solutions for niche markets. My journey spans developing machine learning-powered tools for non-technical NFL football coaches, creating AR-based e-commerce platforms for accessibility-focused users, and optimizing real-time delivery systems for enterprise clients. At the intersection of technology and strategy, I thrive on crafting solutions that empower users and deliver measurable impact.
+I am a passionate **Product Manager** with 2+ years of experience in building cutting-edge software solutions for niche markets. My journey spans developing machine learning-powered tools for non-technical NFL football coaches, creating AR-based e-commerce platforms for accessibility-focused users, and optimizing real-time delivery systems for enterprise clients. At the intersection of technology and strategy, I thrive on crafting solutions that empower users and deliver measurable impact.
 
 
 
