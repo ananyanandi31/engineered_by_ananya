@@ -193,17 +193,6 @@ div {
   }
 }
 
-@media (max-width: 768px) {
-  .side-by-side {
-    flex-direction: column;
-    text-align: center;
-  }
-  .side-by-side img {
-    margin-bottom: 10px;
-  }
-}
-
-
 @media all and (min-width: 576px) {
   div[class^='language-'] {
     .content > & {

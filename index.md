@@ -11,46 +11,35 @@ nav_order: 0
 
 | ![My_Picture](/engineered_by_ananya/assets/images/Cropped_Photo.jpg){: style="width: 200px; height: auto;" } | I'm a **Product Manager** with over two years of professional experience, delivering transformative outcomes across Sports, Fintech, E-Commerce, and Enterprise Solutions sectors. From building customized software solutions using machine learning to leading cross-functional teams, my work has created significant business impact and elevated user experiences. I was honoured with the Spotlight Award by NASSCOM for leading the development of an NFL® analytics web application, the first built on my company (Xoriant's) AI platform, unlocking dynamic use cases and predictive models. |
 
+| ![My Picture](/engineered_by_ananya/assets/images/Cropped_Photo.jpg){: style="width: 200px; height: auto; border-radius: 8px;" } | I’m a **Product Manager** with over two years of professional experience, delivering transformative outcomes across Sports, Fintech, E-Commerce, and Enterprise Solutions sectors. From building customized software solutions using machine learning to leading cross-functional teams, my work has created significant business impact and elevated user experiences. I was honored with the Spotlight Award by NASSCOM for leading the development of an NFL® analytics web application, the first built on my company (Xoriant's) AI platform, unlocking dynamic use cases and predictive models. |
+|---|---|
+
 >
 
 ## Back to School (Sept 2023 - June 2025)
 
-<div style="display: flex; align-items: center; gap: 20px; margin: 20px 0;">
-  <div>
-    <img src="/engineered_by_ananya/assets/images/my_pic_uw.jpg" alt="My UW Picture" style="width: 200px; height: auto; border-radius: 4px">
-  </div>
-  <div style="font-size: 1rem; line-height: 1.6;">
-    <p>
-      I am pursuing a Master of Information Management at the <bold> University of Washington </bold>, where I'm exploring courses like Product Management and Strategy, Leadership, User Experience Design, Information Visualization, and Managerial Business Intelligence. This academic journey empowers me to bridge technical expertise with business strategy, enabling me to drive impactful product innovation and development at scale.
-    </p>
-  </div>
-</div>
-
 <div style="display: flex; align-items: center; gap: 20px; margin: 20px 0; flex-wrap: wrap;">
   <div style="flex: 0 0 auto;">
-    <img src="/engineered_by_ananya/assets/images/my_pic_uw.jpg" alt="My Picture" style="width: 200px; height: auto; border-radius: 8px; display: block;">
+    <img src="/engineered_by_ananya/assets/images/my_pic_uw.jpg" alt="My Picture" style="width: 200px; height: auto; border-radius: 4px; display: block;">
   </div>
   <div style="flex: 1; font-size: 1rem; line-height: 1.6;">
     <p>
-      I am pursuing a Master of Information Management at the <bold> University of Washington </bold>, where I'm exploring courses like Product Management and Strategy, Leadership, User Experience Design, Information Visualization, and Managerial Business Intelligence. This academic journey empowers me to bridge technical expertise with business strategy, enabling me to drive impactful product innovation and development at scale.
+      I am pursuing a Master of Information Management at the <strong> University of Washington </strong>, where I'm exploring courses like Product Management and Strategy, Leadership, User Experience Design, Information Visualization, and Managerial Business Intelligence. This academic journey empowers me to bridge technical expertise with business strategy, enabling me to drive impactful product innovation and development at scale.
     </p>
   </div>
 </div>
 
 
-<div class="side-by-side">
-  <div>
-    <img src="/engineered_by_ananya/assets/images/my_pic_uw.jpg" alt="My Picture" style="width: 200px; height: auto;">
-  </div>
-  <div>
-    <p>
-      I'm a Product Manager with over two years of professional experience, driving impactful solutions across Sports, Fintech, E-Commerce, and Enterprise sectors.
-    </p>
-  </div>
-</div>
-
-
+<table>
+<tr>
+<td>
 I am pursuing a Master of Information Management at the **University of Washington**, where I'm exploring courses like Product Management and Strategy, Leadership, User Experience Design, Information Visualization, and Managerial Business Intelligence. This academic journey empowers me to bridge technical expertise with business strategy, enabling me to drive impactful product innovation and development at scale. 
+</td>
+<td>
+<img src="/engineered_by_ananya/assets/images/my_pic_uw.jpg" alt="My Picture" style="width: 200px; height: auto; display: block;">
+</td>
+</tr>
+</table>
 
 ![my_pic_uw](/engineered_by_ananya/assets/images/my_pic_uw.jpg){: style="width: 200px; height: auto;" } 
 
