@@ -3,7 +3,7 @@ title: Home
 layout: custom
 nav_order: 0
 ---
-<html> 
+
 
 # Meet Me
 
@@ -28,11 +28,10 @@ I'm a **Product Manager** with over two years of professional experience, delive
         </td>
         <td> 
 
-![my_pic_uw](/engineered_by_ananya/assets/images/my_pic_uw.jpg){: style="width: 200px; height: auto;" }
-
-        </td>
-    </tr>
+![my_pic_uw](/engineered_by_ananya/assets/images/my_pic_uw.jpg){: style="width: 200px; height: auto;" } </td>
+</tr>   
 </table> 
+
 >
 
 ## Empowering Women in Tech
@@ -59,9 +58,8 @@ In addition to my professional endeavors, I am a **small business owner**, runni
 
 >
 
-</html>
 
 ## Connect with Me🔗
-[Ananya Nandi](https://www.linkedin.com/in/ananya-nandi/){: style="width: 200px; height: auto;" }
+[Ananya Nandi](https://www.linkedin.com/in/ananya-nandi/)
 
 
