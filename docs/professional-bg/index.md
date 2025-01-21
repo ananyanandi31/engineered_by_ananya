@@ -7,9 +7,9 @@ has_toc: false
 nav_order: 1
 ---
 
-# About Me
+# Professional background
 
-_Story: Explore my evolution from a software engineer to product manager._
+_Explore my evolution from a software engineer to product manager._
 
 I began my career as a Software Engineer with a foundation in Computer Science Engineering and have since transitioned to Product Management to drive the development of impactful solutions at scale. My technical expertise enabled me to lead and architect key projects, including:
 - NFL Analytics Web App: Directed the end-to-end development of a machine learning-powered analytical tool for NFL coaches, improving foul-play detection accuracy by 94.3%.
@@ -18,10 +18,10 @@ I began my career as a Software Engineer with a foundation in Computer Science E
 With a robust background in software development and a strategic approach to product management, I bridge the gap between technical teams and business needs, delivering user-centric solutions with measurable outcomes.
 
 
-<img src= "/engineered_by_ananya/assets/images/hackathon_ar_shopp">
+<img src= "/engineered_by_ananya/assets/images/hackathon_ar_shopp.jpg">
 
-<img src= "/engineered_by_ananya/assets/images/hackathon_hololens">
+<img src= "/engineered_by_ananya/assets/images/hackathon_hololens.jpg">
 
-<img src= "/engineered_by_ananya/assets/images/my_pic_hackathon">
+<img src= "/engineered_by_ananya/assets/images/my_pic_hackathon.jpg">
 
-<img src= "/engineered_by_ananya/assets/images/my_pic_hololens">
+<img src= "/engineered_by_ananya/assets/images/my_pic_hololens.jpg">
