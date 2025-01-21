@@ -63,10 +63,10 @@ I am pursuing a Master of Information Management at the <strong> University of W
 
 <table style="width: 100%; border-collapse: collapse; border: none; table-layout: fixed">
     <tr>
-        <td style="width: 50%; padding: 15px; text-align: center; vertical-align: middle;"> 
+        <td style="width: 50%; padding: 15px; border-right: none; text-align: center; vertical-align: middle;"> 
         <img src = "/engineered_by_ananya/assets/images/my_pic_swe_2.jpg"> 
         </td>
-        <td style="width: 50%; padding: 15px; text-align: center; vertical-align: middle;"> 
+        <td style="width: 50%; padding: 15px; border-left: none; text-align: center; vertical-align: middle;"> 
         <img src = "/engineered_by_ananya/assets/images/swe_stage.jpg"> 
         </td>
     </tr>
@@ -78,12 +78,12 @@ I am pursuing a Master of Information Management at the <strong> University of W
 
 | Beyond my professional and academic pursuits, I dedicated five years to **Rotaract**, a youth organization under Rotary International. As the District Rotaract Secretary, I managed **57 clubs**, orchestrated a **2,000+ attendee leadership conference**, and earned several prestigious awards for my contributions. From serving at old-age homes and conducting plantation drives to organizing fundraisers, food distributions, and cloth donation initiatives during the pandemic, I've witnessed firsthand the power of leadership and collective action. These experiences not only enhanced my organizational and people management skills but also deepened my understanding of how technology and strategic planning can bridge cultural divides and create lasting societal impact.|
 
-<table style="width: 100%; border-collapse: collapse; border: none; table-layout: fixed">
+<table style="width: 100%; border-collapse: collapse; border: none;">
     <tr>
-        <td style="width: 50%; padding: 15px; text-align: center; vertical-align: middle;"> 
+        <td style="width: 50%; padding: 15px; border-right: none; text-align: center; vertical-align: middle;"> 
         <img src = "/engineered_by_ananya/assets/images/rotaract_1.jpeg"> 
         </td>
-        <td style="width: 50%; padding: 15px; text-align: center; vertical-align: middle;"> 
+        <td style="width: 50%; padding: 15px; border-left: none; text-align: center; vertical-align: middle;"> 
         <img src = "/engineered_by_ananya/assets/images/rotaract_2.jpeg"> 
         </td>
     </tr>
