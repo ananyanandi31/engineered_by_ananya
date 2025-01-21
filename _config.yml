@@ -2,6 +2,9 @@ title: Engineered By Ananya
 description: Get to know Ananya
 theme: just-the-docs
 
+logo: "/assets/images/circle_logo.png"
+# favicon_ico: "/assets/images/opendevsecops-favicon.ico"
+
 url: https://just-the-docs.github.io
 
 aux_links:
@@ -10,7 +13,7 @@ aux_links:
 callouts:
   important:
     title: Important
-    color: green
+    color: green  
   warning:
     title: Warning
     color: yellow
