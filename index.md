@@ -15,7 +15,7 @@ nav_order: 0
 
 ## Back to School (Sept 2023 - June 2025)
 
-| I am pursuing a Master of Information Management at the **University of Washington**, where I’m exploring courses like Product Management and Strategy, Leadership, User Experience Design, Information Visualization, and Managerial Business Intelligence. This academic journey empowers me to bridge technical expertise with business strategy, enabling me to drive impactful product innovation at scale. | ![my_pic_uw](/engineered_by_ananya/assets/images/my_pic_uw.jpg){: style="width: 600px; height: auto;" } |
+| I am pursuing a Master of Information Management at the **University of Washington**, where I’m exploring courses like Product Management and Strategy, Leadership, User Experience Design, Information Visualization, and Managerial Business Intelligence. This academic journey empowers me to bridge technical expertise with business strategy, enabling me to drive impactful product innovation at scale. | ![my_pic_uw](/engineered_by_ananya/assets/images/my_pic_uw.jpg){: style="width: 800px; height: auto;" } |
 
 <!-- The following worked okay but image wasn't aligning -->
 <!-- <div style="display: flex; align-items: center; gap: 20px; margin: 20px 0; flex-wrap: wrap;">
@@ -57,7 +57,7 @@ I am pursuing a Master of Information Management at the <strong> University of W
 
 ## Empowering Women in Tech
 
-| ![my_pic_swe](/engineered_by_ananya/assets/images/my_pic_swe.jpg){: style="width: 1000px; height: auto;" } | As the **Professional Development Committee Lead** at Grad SWE (Graduate Society of Women Engineers, UW), I've spearheaded initiatives empowering women in technology. Leading a team of 10+ dynamic women, I've organized impactful events like Speed Mentoring and Industrial Networking Happy Hour, positively influencing 100+ attendees by connecting them with industry professionals. My passion for fostering gender diversity in tech also led me to attend the **SWE24 Conference** in Chicago, a remarkable gathering of over 20,000 women engineers from diverse sectors. Engaging with industry leaders and hearing their inspiring stories redefined my perspective on resilience, determination, and the limitless potential of women in engineering. |
+| ![my_pic_swe](/engineered_by_ananya/assets/images/my_pic_swe.jpg){: style="width: 1000px; height: auto; padding: 10px;" } | As the **Professional Development Committee Lead** at Grad SWE (Graduate Society of Women Engineers, UW), I've spearheaded initiatives empowering women in technology. Leading a team of 10+ dynamic women, I've organized impactful events like Speed Mentoring and Industrial Networking Happy Hour, positively influencing 100+ attendees by connecting them with industry professionals. My passion for fostering gender diversity in tech also led me to attend the **SWE24 Conference** in Chicago, a remarkable gathering of over 20,000 women engineers from diverse sectors. Engaging with industry leaders and hearing their inspiring stories redefined my perspective on resilience, determination, and the limitless potential of women in engineering. |
 
 ![my_pic_swe2](/engineered_by_ananya/assets/images/my_pic_swe_2.jpg){: style="width: 400px; height: auto;" }   ![my_pic_swe2](/engineered_by_ananya/assets/images/swe_stage.jpg){: style="width: 400px; height: auto;" } 
 
@@ -67,13 +67,32 @@ I am pursuing a Master of Information Management at the <strong> University of W
 
 Beyond my professional and academic pursuits, I dedicated five years to **Rotaract**, a youth organization under Rotary International. As the District Rotaract Secretary, I managed **57 clubs**, orchestrated a **2,000+ attendee leadership conference**, and earned several prestigious awards for my contributions. From serving at old-age homes and conducting plantation drives to organizing fundraisers, food distributions, and cloth donation initiatives during the pandemic, I've witnessed firsthand the power of leadership and collective action. These experiences not only enhanced my organizational and people management skills but also deepened my understanding of how technology and strategic planning can bridge cultural divides and create lasting societal impact.
 
+<table style="width: 100%; border-collapse: collapse;">
+<tr>
+    <td style="width: 50%; padding: 10px;"> <img src = "/engineered_by_ananya/assets/images/rotaract_1.jpg"> </td>
+    <td style="width: 50%; padding: 10px;"> <img src = "/engineered_by_ananya/assets/images/rotaract_2.jpg"> </td>
+    <!-- <td style="width: 30%; padding: 10px;"> <img src = "/engineered_by_ananya/assets/images/art_2.jpg"> </td> -->
+</tr>
+</table>
+
+
 >
 
 ## Creativity Meets Business Acumen
 
-In addition to my professional endeavors, I am a **small business owner**, running an Instagram-based art store where I create and sell customized paintings, portraits, sketches, and bookmarks. This venture combines my artistic passion with entrepreneurial expertise, requiring me to oversee marketing strategies, customer engagement, and operational workflows. Managing end-to-end processes—from market research and client interactions to timely delivery—has refined my ability to scale solutions and maintain customer satisfaction, skills that align closely with my product management ethos.
+In addition to my professional endeavors, I am a **small business owner**, running an Instagram-based art store where I create and sell customized paintings, portraits, sketches, and bookmarks. This venture combines my artistic passion with entrepreneurial expertise, requiring me to oversee marketing strategies, customer engagement, and operational workflows. Managing end-to-end processes—from market research and client interactions to timely delivery—has refined my ability to scale solutions and maintain customer satisfaction, skills that align closely with my product management ethos. Be sure to check out my page:
 
-![my_pic_uw](/engineered_by_ananya/assets/images/my_pic_uw.jpg){: style="width: 200px; height: auto;" }
+<table style="width: 100%; border-collapse: collapse;">
+<tr>
+    <td style="width: 30%; padding: 10px;"> <img src = "/engineered_by_ananya/assets/images/art_1.jpg"> </td>
+    <td style="width: 40%; padding: 10px;"> <img src = "/engineered_by_ananya/assets/images/Artisserie_Logo.jpg"> </td>
+    <td style="width: 30%; padding: 10px;"> <img src = "/engineered_by_ananya/assets/images/art_2.jpg"> </td>
+</tr>
+</table>
+
+<!-- ![art_1](/engineered_by_ananya/assets/images/art_1.jpg){: style="width: 400px; height: auto;" padding: 10px}
+![Artisserie_Logo](/engineered_by_ananya/assets/images/Artisserie_Logo.jpg){: style="width: 400px; height: auto;" padding: 10px}
+![art_2](/engineered_by_ananya/assets/images/art_2.jpg){: style="width: 400px; height: auto;" padding: 10px} -->
 
 >
 
