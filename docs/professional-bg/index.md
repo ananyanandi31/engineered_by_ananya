@@ -21,7 +21,7 @@ With a robust background in software development and a strategic approach to pro
 <table style="width: 100%; border-collapse: collapse; border: none; table-layout: fixed">
     <tr>
         <td style="width: 50%; padding: 10px; text-align: center; vertical-align: middle;"> 
-        <img src= "/engineered_by_ananya/assets/images/hackathon_ar_shopp.jpg">
+        <img src= "/engineered_by_ananya/assets/images/my_pic_hololens.jpg">
         </td>
         <td style="width: 50%; padding: 10px; text-align: center; vertical-align: middle;"> 
         <img src= "/engineered_by_ananya/assets/images/my_pic_hackathon.jpg">
@@ -29,10 +29,10 @@ With a robust background in software development and a strategic approach to pro
     </tr>
     <tr>
         <td style="width: 50%; padding: 10px; text-align: center; vertical-align: middle;"> 
-        <img src= "/engineered_by_ananya/assets/images/hackathon_hololens.jpg">
+        <img src= "/engineered_by_ananya/assets/images/hackathon_ar_shopp.jpg">
         </td>
-        <td style="width: 50%; padding: 10px; text-align: center; vertical-align: middle;"> 
-        <img src= "/engineered_by_ananya/assets/images/my_pic_hololens.jpg">
+        <td style="width: 50%; padding: 10px; text-align: center; vertical-align: middle;">
+        <img src= "/engineered_by_ananya/assets/images/hackathon_hololens.jpg"> 
         </td>
     </tr>
 </table>
