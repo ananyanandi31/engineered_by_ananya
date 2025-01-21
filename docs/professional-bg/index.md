@@ -60,10 +60,10 @@ The AR Shopping Platform reimagines how users interact with everyday products by
 
 <table style="width: 100%; border-collapse: collapse; table-layout: fixed">
     <tr>
-        <td style="width: 400px; height: auto; padding: 15px; text-align: center; vertical-align: middle;"> 
+        <td style="width: 400px; height: auto; border-right: none; padding: 15px; text-align: center; vertical-align: middle;"> 
         <img src= "/engineered_by_ananya/assets/images/my_pic_hololens.jpg">
         </td>
-        <td style="width: 400px; height: auto; padding: 15px; text-align: center; vertical-align: middle;"> 
+        <td style="width: 400px; height: auto; border-left: none; padding: 15px; text-align: center; vertical-align: middle;"> 
         <img src= "/engineered_by_ananya/assets/images/my_pic_hackathon.jpg">
         </td>
     </tr>
