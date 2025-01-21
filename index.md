@@ -7,9 +7,9 @@ nav_order: 0
 
 # Meet Me
 
-## *Discover the person behind the impactful products*
+## Discover the person behind the impactful products
 
-| ![My_Picture](/engineered_by_ananya/assets/images/Cropped_Photo.jpg){: style="width: 800px; height: auto;" } | I'm a **Product Manager** with over two years of professional experience, delivering transformative outcomes across Sports, Fintech, E-Commerce, and Enterprise Solutions sectors. From building customized software solutions using machine learning to leading cross-functional teams, my work has created significant business impact and elevated user experiences. I was honoured with the Spotlight Award by NASSCOM for leading the development of an NFL® analytics web application, the first built on my company (Xoriant's) AI platform, unlocking dynamic use cases and predictive models. |
+| ![My_Picture](/engineered_by_ananya/assets/images/Cropped_Photo.jpg){: style="width: 800px; height: auto;" } | I'm a **Product Manager** with over 3 years of professional experience, delivering transformative outcomes across Sports, Fintech, E-Commerce, and Enterprise Solutions sectors. From building customized software solutions using machine learning to leading cross-functional teams, my work has created significant business impact and elevated user experiences. I was honoured with the Spotlight Award by NASSCOM for leading the development of an NFL® analytics web application, the first built on my company (Xoriant's) AI platform, unlocking dynamic use cases and predictive models. |
 
 >
 
@@ -63,10 +63,10 @@ I am pursuing a Master of Information Management at the <strong> University of W
 
 <table style="width: 100%; border-collapse: collapse; border: none; table-layout: fixed">
     <tr>
-        <td style="width: 50%; padding: 10px; text-align: center; vertical-align: middle;"> 
+        <td style="width: 50%; padding: 15px; text-align: center; vertical-align: middle;"> 
         <img src = "/engineered_by_ananya/assets/images/my_pic_swe_2.jpg"> 
         </td>
-        <td style="width: 50%; padding: 10px; text-align: center; vertical-align: middle;"> 
+        <td style="width: 50%; padding: 15px; text-align: center; vertical-align: middle;"> 
         <img src = "/engineered_by_ananya/assets/images/swe_stage.jpg"> 
         </td>
     </tr>
@@ -80,10 +80,10 @@ I am pursuing a Master of Information Management at the <strong> University of W
 
 <table style="width: 100%; border-collapse: collapse; border: none; table-layout: fixed">
     <tr>
-        <td style="width: 50%; padding: 10px; text-align: center; vertical-align: middle;"> 
+        <td style="width: 50%; padding: 15px; text-align: center; vertical-align: middle;"> 
         <img src = "/engineered_by_ananya/assets/images/rotaract_1.jpeg"> 
         </td>
-        <td style="width: 50%; padding: 10px; text-align: center; vertical-align: middle;"> 
+        <td style="width: 50%; padding: 15px; text-align: center; vertical-align: middle;"> 
         <img src = "/engineered_by_ananya/assets/images/rotaract_2.jpeg"> 
         </td>
     </tr>
@@ -94,13 +94,13 @@ I am pursuing a Master of Information Management at the <strong> University of W
 
 ## Creativity Meets Business Acumen
 
-| In addition to my professional endeavors, I am a **small business owner**, running an Instagram-based art store where I create and sell customized paintings, portraits, sketches, and bookmarks. This venture combines my artistic passion with entrepreneurial expertise, requiring me to oversee marketing strategies, customer engagement, and operational workflows. Managing end-to-end processes—from market research and client interactions to timely delivery—has refined my ability to scale solutions and maintain customer satisfaction, skills that align closely with my product management ethos. Be sure to check out my page:| ![insta_qr](/engineered_by_ananya/assets/images/insta_qr.png){: style="width: 800px; height: auto;" }
+| In addition to my professional endeavors, I am a **small business owner**, running an Instagram-based art store where I create and sell customized paintings, portraits, sketches, and bookmarks. This venture combines my artistic passion with entrepreneurial expertise, requiring me to oversee marketing strategies, customer engagement, and operational workflows. Managing end-to-end processes—from market research and client interactions to timely delivery—has refined my ability to scale solutions and maintain customer satisfaction, skills that align closely with my product management ethos. Be sure to check out my page at this QR.| ![insta_qr](/engineered_by_ananya/assets/images/insta_qr.png){: style="width: 1000px; height: auto;" } |
 
 <table style="width: 100%; border-collapse: collapse;">
 <tr>
-    <td style="width: 30%; padding: 10px;"> <img src = "/engineered_by_ananya/assets/images/art_1.jpg"> </td>
-    <td style="width: 40%; padding: 10px;"> <img src = "/engineered_by_ananya/assets/images/Artisserie_Logo.png"> </td>
-    <td style="width: 30%; padding: 10px;"> <img src = "/engineered_by_ananya/assets/images/art_2.jpg"> </td>
+    <td style="width: 30%; padding: 15px; border-right: none;"> <img src = "/engineered_by_ananya/assets/images/art_1.jpg"> </td>
+    <td style="width: 40%; padding: 15px; border-right: none; border-left: none;"> <img src = "/engineered_by_ananya/assets/images/Artisserie_Logo.png"> </td>
+    <td style="width: 30%; padding: 15px; border-left: none;"> <img src = "/engineered_by_ananya/assets/images/art_2.jpg"> </td>
 </tr>
 </table>
 
