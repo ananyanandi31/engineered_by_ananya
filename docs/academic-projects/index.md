@@ -24,6 +24,8 @@ nav_order: 1
 > - Conducted competitor analysis, extensive user research and testing with prototypes built in Figma, iterating designs based on feedback to refine the user experience.
 > - Devised strategic marketing techniques, pricing models, and revenue streams, delivering a scalable and profitable solution for shared living spaces while staying ahead of market trends.
 
+>
+<centre>
 <iframe width="560" height="315" 
     src="https://www.youtube.com/embed/q2lr7DX39yo?si=J1TPYLd8x5h6zAaq" 
     title="YouTube video player" 
@@ -31,7 +33,7 @@ nav_order: 1
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" 
     allowfullscreen>
 </iframe>
-
+</centre>
 
 <!-- - Add Co-habit here
 - Add OTT Recommendation Working Video?
